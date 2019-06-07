@@ -49,6 +49,7 @@
     <Compile Include="Data\EmployeeDetails.cs" />
     <Compile Include="Concepts\ListsPractice.cs" />
     <Compile Include="Exercises\ArraysPractice.cs" />
+    <Compile Include="Exercises\Palindrome.cs" />
     <Compile Include="Math\Prime.cs" />
     <Compile Include="ReadingTheFile.cs" />
     <Compile Include="UdemyClasses\ArraysClass.cs" />
