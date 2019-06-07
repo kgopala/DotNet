@@ -12,6 +12,7 @@ namespace ClassesAndObjects.Exercises
         {
             Console.WriteLine("Enter a String: ");
             String takeAString = Console.ReadLine();
+            String InputString2 = Console.ReadLine();
             return InputString;
         }
     }
