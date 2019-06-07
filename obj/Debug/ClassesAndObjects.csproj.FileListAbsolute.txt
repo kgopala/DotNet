@@ -1,0 +1,14 @@
+C:\my_Folder\udemy_Dotnet\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+C:\my_Folder\udemy_Dotnet\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+C:\my_Folder\udemy_Dotnet\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+C:\my_Folder\udemy_Dotnet\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csprojAssemblyReference.cache
+C:\my_Folder\udemy_Dotnet\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\my_Folder\udemy_Dotnet\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+C:\my_Folder\udemy_Dotnet\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb
+C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csprojAssemblyReference.cache
+C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb
