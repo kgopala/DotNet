@@ -21,10 +21,11 @@ namespace ClassesAndObjects
      class Program
     {       
         static void Main(string[] args)
-        {            
-            Class49 C49 = new Class49();
-            ArraysClass AR = new ArraysClass();
-            AR.ArraysMethod();
+        {
+            Palindrome.palindrome();
+            //Class49 C49 = new Class49();
+            //ArraysClass AR = new ArraysClass();
+            //AR.ArraysMethod();
            // C49.RandomNumbers();
             //Console.WriteLine(C49.DivisibleByThree());
            //Console.WriteLine("The sum of previously entered numbers is: " + Class49.SumOfAllEnteredNumbers());

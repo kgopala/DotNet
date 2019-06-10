@@ -8,12 +8,26 @@ namespace ClassesAndObjects.Exercises
 {
     class Palindrome
     {
-        public string palindrome(string InputString)
-        {
-            Console.WriteLine("Enter a String: ");
-            String takeAString = Console.ReadLine();
-            String InputString2 = Console.ReadLine();
-            return InputString;
+        public static void palindrome()
+        {           
+                Console.WriteLine("Enter first String: ");
+                String FirstString = Console.ReadLine();
+
+            char[] ReverseString = FirstString.ToCharArray();
+            Array.Reverse(ReverseString);
+
+            String RS = new String(ReverseString);
+
+            Console.WriteLine(RS);
+
+            if (FirstString == RS)
+            {
+                Console.WriteLine("Entered string is a palindrome");
+            }
+            else
+            {
+                Console.WriteLine("Entered string is not a palindrome");
+            }
         }
     }
 }

@@ -12,3 +12,10 @@ C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\ClassesAn
 C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
 C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
 C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb
+C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\obj\Debug\ClassesAndObjects.csprojAssemblyReference.cache
+C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb
