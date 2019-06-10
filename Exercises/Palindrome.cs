@@ -9,25 +9,37 @@ namespace ClassesAndObjects.Exercises
     class Palindrome
     {
         public static void palindrome()
-        {           
-                Console.WriteLine("Enter first String: ");
-                String FirstString = Console.ReadLine();
-
-            char[] ReverseString = FirstString.ToCharArray();
-            Array.Reverse(ReverseString);
-
-            String RS = new String(ReverseString);
-
-            Console.WriteLine(RS);
-
-            if (FirstString == RS)
+        {
+            while (true)
             {
-                Console.WriteLine("Entered string is a palindrome");
-            }
-            else
-            {
-                Console.WriteLine("Entered string is not a palindrome");
-            }
+                Console.WriteLine("Enter a String");
+                String InputString = Console.ReadLine();
+
+                if (InputString.ToLower() == "ok")
+                {
+                    Console.WriteLine("Since you entered OK , the program is exiting");
+                    break;
+                }
+
+                else
+                {
+                    Char[] chrArray = InputString.ToCharArray();
+
+                    Array.Reverse(chrArray);
+                    String reversedstring = new String(chrArray);
+
+                    Console.WriteLine(reversedstring);
+
+                    if (InputString == reversedstring)
+                    {
+                        Console.WriteLine("The entered string is a Palindrome");
+                    }
+                    else
+                    {
+                        Console.WriteLine("The entered string is not a palindrome");
+                    }
+                }             
+            }         
         }
     }
 }
