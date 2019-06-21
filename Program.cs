@@ -22,7 +22,8 @@ namespace ClassesAndObjects
     {       
         static void Main(string[] args)
         {
-            Palindrome.palindrome();
+            Console.WriteLine("Testing my new laptop");
+            //Palindrome.palindrome();
             //Class49 C49 = new Class49();
             //ArraysClass AR = new ArraysClass();
             //AR.ArraysMethod();

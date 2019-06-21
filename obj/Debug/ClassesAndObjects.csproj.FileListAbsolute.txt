@@ -19,3 +19,10 @@ C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\obj\Debug
 C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
 C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
 C:\MyProgrammingFiles\MyLearning\C#\PracticePrograms\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb
+C:\MyProgramming\DotNet\Programming\UdemyPractice\bin\Debug\ClassesAndObjects.exe.config
+C:\MyProgramming\DotNet\Programming\UdemyPractice\bin\Debug\ClassesAndObjects.exe
+C:\MyProgramming\DotNet\Programming\UdemyPractice\bin\Debug\ClassesAndObjects.pdb
+C:\MyProgramming\DotNet\Programming\UdemyPractice\obj\Debug\ClassesAndObjects.csprojAssemblyReference.cache
+C:\MyProgramming\DotNet\Programming\UdemyPractice\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\MyProgramming\DotNet\Programming\UdemyPractice\obj\Debug\ClassesAndObjects.exe
+C:\MyProgramming\DotNet\Programming\UdemyPractice\obj\Debug\ClassesAndObjects.pdb
