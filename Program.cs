@@ -8,6 +8,7 @@ using ClassesAndObjects.Exercises;
 using ClassesAndObjects.Concepts;
 using ClassesAndObjects.Math;
 using ClassesAndObjects.UdemyClasses;
+using ClassesAndObjects.StringsManipulations;
 
 namespace ClassesAndObjects
 {
@@ -22,13 +23,22 @@ namespace ClassesAndObjects
     {       
         static void Main(string[] args)
         {
-            Palindrome.palindrome();
+
+            Class55Lists C55 = new Class55Lists();
+            C55.Listpractice();
+            //ManpulateString MS = new ManpulateString();
+            //MS.StringManipulation();
+            //StringMatch SM = new StringMatch();
+            //AddupNumbers AN = new AddupNumbers();
+            //Console.WriteLine(AN.AddNumbers());
+            //  Console.WriteLine(SM.MatchString());
+            // Palindrome.palindrome();
             //Class49 C49 = new Class49();
             //ArraysClass AR = new ArraysClass();
             //AR.ArraysMethod();
-           // C49.RandomNumbers();
+            // C49.RandomNumbers();
             //Console.WriteLine(C49.DivisibleByThree());
-           //Console.WriteLine("The sum of previously entered numbers is: " + Class49.SumOfAllEnteredNumbers());
+            //Console.WriteLine("The sum of previously entered numbers is: " + Class49.SumOfAllEnteredNumbers());
             //Console.WriteLine(C49.FactorialOfNumber());
             // Console.WriteLine(C49.PrintLargest());
 
